@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: hero path has a story of the user going down the left path, choosing between going into a city or not, and slaying the dragon and raising its egg in the end.
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
