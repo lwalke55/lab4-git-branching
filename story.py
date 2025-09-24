@@ -10,7 +10,9 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
-
+    print("after picking up the sword you travel further down the path and find a village..")
+    print("do you go in the village? (yes/no)")
+    choice = input("do you go in the village? (yes/no): ").strip().lower()
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
 
