@@ -1,7 +1,17 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 51bcdb5b0bee9ca77ccda987e1dc2d409f83941d
-  Commits: 1
+- hero-path
+  SHA: a51bd1e8547c118457470c237be35b6424450eb5
+  Commits: 5
   Recent commits:
+    a51bd1e | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Date: 2025-09-24T13:39:50-04:00 | Summarize hero path in README.md
+    a2adbb1 | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Date: 2025-09-24T13:39:50-04:00 | added pathway for user to go into city or not and different outcomes for the battle
+    5e422af | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Date: 2025-09-24T13:39:50-04:00 | added print statements and input statement
+    105343a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-24T18:09:45Z | Auto-update branch-info.txt
+    51bcdb5 | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-24T14:09:31-04:00 | Initial commit
+- main
+  SHA: 105343ac242b3d932beb6e421f1381f60e382f6d
+  Commits: 2
+  Recent commits:
+    105343a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-24T18:09:45Z | Auto-update branch-info.txt
     51bcdb5 | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-24T14:09:31-04:00 | Initial commit
