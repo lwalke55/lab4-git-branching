@@ -13,6 +13,9 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("the squirrel went down easy, but a wizard gives way behind the trees")
+    print("the wizard asks, 'would you like to know the ways of wizardy?' ")
+    choice = input("would you like to know the ways of wizardry? (yes/no): ").strip().lower()
 
 if __name__ == "__main__":
     intro()
