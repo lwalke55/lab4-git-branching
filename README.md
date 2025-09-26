@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: villain path takes the user between two choices, and in the end leaves the user thinking deep about their choices.
 
 ## Final Checklist
 
