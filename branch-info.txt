@@ -10,12 +10,14 @@ Branches in this repo (with details):
     105343a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-24T18:09:45Z | Auto-update branch-info.txt
     51bcdb5 | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-24T14:09:31-04:00 | Initial commit
 - main
-  SHA: 8f7fe337542daabcebe5c5b29d63b5f4fb538535
-  Commits: 3
+  SHA: 2a9001b1267a57f83a7223a99a4100a5d3ee7656
+  Commits: 8
   Recent commits:
-    8f7fe33 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-26T23:21:35Z | Auto-update branch-info.txt
-    105343a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-24T18:09:45Z | Auto-update branch-info.txt
-    51bcdb5 | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-24T14:09:31-04:00 | Initial commit
+    2a9001b | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Date: 2025-09-24T13:39:50-04:00 | Merge branch 'villain-path'
+    fe5219d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-26T23:47:49Z | Auto-update branch-info.txt
+    4dc786b | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Date: 2025-09-26T23:46:51Z | Summarize villain path in README.md
+    23fbba9 | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Date: 2025-09-26T23:44:36Z | added print statements for each choice
+    3d82afd | Author: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Committer: Laron Walker <233176084+lwalke55@users.noreply.github.com> | Date: 2025-09-26T23:38:21Z | print statements and input statement added to the right path
 - villain-path
   SHA: 4dc786b2c1e00129b10896b6790b5c18376c8887
   Commits: 5
